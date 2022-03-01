@@ -80,6 +80,7 @@ a{
 }
 
 
+
 /* HEADER START  */
 header{
   background-color: #163A24;
@@ -88,13 +89,9 @@ header{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
 }
 .header__logo {
   padding: 20px 0;
-  
-}
-.header__logo-link {
 }
 .header__img {
   width: 153px;
@@ -127,6 +124,7 @@ header{
 /* HEADER FINISH */
 
 /* MAIN START */
+
 /* Section Hero   */
 #hero{
   background-color: #163A24;
@@ -155,18 +153,15 @@ header{
   width: 738px;
   height: 580px;
 }
+
+
 /* Section Human    */
-.human {
-  
-}
 .human__list {
   display: flex;
   flex-flow: row wrap;
   list-style-type: none;
   justify-content: space-around;
   align-items: center;
-}
-.human__item {
 }
 .human__img{
   width: 492px;
@@ -178,7 +173,6 @@ header{
   font-size: 48px;
   line-height: 54px;
   color: #163A24;
-  
 }
 .human__text {
   font-size: 18px;
@@ -189,9 +183,7 @@ header{
 
 /* Section Partner  */
 .partner {
-  
   padding: 114px 99px;
-  
 }
 .partner__heading {
   margin-bottom: 67px;
@@ -212,9 +204,7 @@ header{
   list-style-type: none;
 }
 
-.partner__img{
-  
-}
+
 /* Section Product  */
 #product{
   background-color: #163A24;
@@ -253,11 +243,12 @@ header{
   color: #FBFAF7;
   margin-top: 28px;
 }
-
 .white{
   height: 130px;
   background-color: #fff;
 }
+
+
 /* Section Employer */
 #employer{
   background-color: #F2EFE6;
@@ -288,15 +279,15 @@ header{
 .employer__img {
   width: 1180px;
   height: 335px;
-  
 }
+
+
 /* Section Scene    */
 .scene {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 120px;
-  
 }
 .scene__content {
   width: 393px;
@@ -318,6 +309,8 @@ header{
   width: 492px;
   height: 423px;
 }
+
+
 /* Section Interest */
 .interest {
   margin-bottom: 120px;
@@ -329,7 +322,6 @@ header{
   text-align: center; 
   color: #163A24;
   margin-bottom: 28px;
-  
 }
 .interest__text {
   font-size: 18px;
@@ -372,6 +364,8 @@ header{
 .interest__title {
   margin-bottom: 23px;
 }
+
+
 /* Section Stats */
 #stats{
   background-color: #F2EFE6;
@@ -415,13 +409,11 @@ header{
 }
 .text{
   width: 260px;
-  
 }
 .stats__imgx{
   position: absolute;
   top: -33px;
   left: -16px;
-  
 }
 .stats__bold{
   position: absolute;
@@ -432,7 +424,6 @@ header{
   line-height: 31px;
   text-align: center;
   color: #163A24;
-  
 }
 .stats__link{
   font-size: 16px;
@@ -443,6 +434,7 @@ header{
   color: #FBFAF7;
   border-radius: 25px;
 }
+
 
 /* Section Resource */
 .resource {
@@ -461,8 +453,6 @@ header{
   line-height: 54px;
   color: #163A24;
   margin-bottom: 25px;
-  
-  
 }
 .resource__text{
   margin-bottom: 40px;
@@ -482,6 +472,8 @@ header{
   width: 490px;
   height: 487px;
 }
+
+
 /* Section Testimonial */
 #testimonial{
   background-color: #163A24;
@@ -515,6 +507,8 @@ header{
   line-height: 22px;
   color: #FBFAF7;
 }
+
+
 /* Section Registration*/
 #registration{
   background-color: #F2EFE6;
@@ -534,7 +528,6 @@ header{
   line-height: 54px; 
   color: #163A24;
   margin-bottom: 30px;
-  
 }
 .registration__title {
   font-size: 18px;
@@ -577,8 +570,6 @@ header{
 /* MAIN FINISH */
 
 
-
-
 /* FOOTER START   */
 .footer {
   padding-top: 44px;
@@ -588,11 +579,6 @@ header{
   justify-content: space-between;
   padding-bottom: 44px;
   border-bottom: 2px solid #F2EFE6;
-  
-}
-.footer__logo {
-}
-.footer__img {
 }
 .footer__title {
   font-weight: 600;
@@ -622,7 +608,6 @@ header{
 .footer__list {
   list-style-type: none;
   display: flex;
-  
 }
 .footer__item {
   margin-left: 14px;
@@ -630,7 +615,6 @@ header{
 .footer__item-link {
   color: #198C36;
 }
-
 /* FOOTER FINISH  */
 
 
