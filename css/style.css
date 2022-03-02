@@ -476,9 +476,16 @@ header{
 
 /* Section Testimonial */
 #testimonial{
+  height: 420px;
+  background-image: url("../img/leaf.png"),
+                    url("../img/leaf2.png");
+  background-position: calc(50% - 820px) calc(50% + 68px),
+                       calc(50% - -800px) calc(50% + 132px);
+  background-repeat: no-repeat;
   background-color: #163A24;
 }
 .testimonial {
+ 
   text-align: center;
   padding: 114px;
   
